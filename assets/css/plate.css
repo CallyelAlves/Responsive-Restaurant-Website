@@ -1,0 +1,16 @@
+.requestContainer{
+    height: calc(100vh - 18vh);
+    justify-content: center;
+    margin-right: var(--margin-3);
+    margin-left: var(--margin-3);
+}
+
+.requestContent{
+    margin-top: 6rem;
+    text-align: center;
+}
+
+.btnRequest{
+    margin-top: 1rem;
+    text-transform: uppercase;
+}
