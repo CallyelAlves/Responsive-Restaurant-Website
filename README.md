@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O restaurante delivery é uma landing page que consiste em apresentar toda a história e promoções que acontece no local, trazendo assim conhecimentos e divulgação para seus clientes. 
+O restaurante delivery é uma landing page que consiste em apresentar toda a história e promoções que acontece no seu restaurante, trazendo assim conhecimentos e divulgação para seus clientes. 
 
 ## 🔖 Layout
 
