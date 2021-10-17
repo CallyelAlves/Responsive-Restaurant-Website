@@ -41,8 +41,6 @@ O restaurante delivery é uma landing page que consiste em apresentar toda a his
  
 ## 🎬 Executando a aplicação
 
-
 <p align="center">
   <img alt="apresentação" src="./github/restaurant.gif">
 </p>
-
