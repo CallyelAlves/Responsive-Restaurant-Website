@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-executando-a-aplicação">Executando a aplicação</a>
+  <a href="#-executando-aplicação">Executando aplicação</a>
 </p>
 
 ## ✨ Tecnologias
@@ -39,7 +39,7 @@ O restaurante delivery é uma landing page que consiste em apresentar toda a his
 - Clone o repositório
 - Abra o arquivo index.html no seu navegador
  
-## 🎬 Executando a aplicação
+## 🎬 Executando aplicação
 
 <p align="center">
   <img alt="apresentação" src="./github/restaurant.gif">
